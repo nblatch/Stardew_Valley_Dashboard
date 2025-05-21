@@ -20,19 +20,21 @@ This project creates a fully interactive info dashboard using **Tableau**, where
 ---
 
 ## 📁 Repository Structure
+```
 stardew-valley-dashboard/
 ├── data/
-│ ├── raw/ 
-│ └── cleaned/ 
+│   ├── raw/ 
+│   └── cleaned/ 
 ├── tableau/
-│ ├── dashboard.twbx 
-│ └── screenshots/ 
+│   ├── dashboard.twbx 
+│   └── screenshots/ 
 ├── docs/
-│ └── stardew-notes.md 
+│   └── stardew-notes.md 
 ├── code/
-│ └── data_cleaning.ipynb 
+│   └── data_cleaning.ipynb 
 ├── README.md
 └── LICENSE
+```
 
 ## 🔍 Data Sources
 
@@ -41,6 +43,12 @@ stardew-valley-dashboard/
 - [Full Game Catalog](https://www.kaggle.com/datasets/jessicaebrown/stardew-valley-full-catelog)
 
 I’ve merged and cleaned data across these sources to provide a unified dashboard experience.
+
+🎮 Fan Project Disclaimer
+
+This project is an unofficial, fan-made dashboard created for educational and portfolio purposes. All data, characters, and game mechanics referenced belong to ConcernedApe, the creator of Stardew Valley. I am not affiliated with or endorsed by ConcernedApe or any related entity.
+
+If you're ConcernedApe and reading this: 1) Hi, I love your work, and 2) please don’t sue me.
 
 ---
 
